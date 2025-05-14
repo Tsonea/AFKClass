@@ -1,0 +1,21 @@
+--- Changelog AFK Class 2.2 ---
+
+Date de sortie publique: 25.04.2021
+
+Général:
+- Auto-Chat est remplacé par AFK Chat pour faciliter une future version. 
+- Mise à jour des drivers des navigateurs
+- Mise à jour d'AFK Class pour les nouvelles versions du Cned et de Jitsi
+
+AFK Chat:
+- Ajout d'un message de fin
+
+Développement:
+- Améliorations du mode développeur
+
+Optimisations:
+- Améliorations des performances
+- Amélioration des connections
+- AFK Class est désormais plus stable et fiable
+
+

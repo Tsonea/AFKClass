@@ -1,0 +1,17 @@
+def bgdfh():
+	global closeThread
+	global listeClasses
+	global nmbreLaunch
+	global modDev
+	global instanceExist
+	global msgMa
+	global msgMe
+	global explorer
+	global userId
+	global userMdp
+	global cameraVar
+	global microVar
+	global geoVar
+	global iprint
+	global directory
+	global afkRecorder

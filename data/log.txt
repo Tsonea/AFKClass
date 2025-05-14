@@ -1,0 +1,24 @@
+----------- Log AFK Class ----------
+
+Install Date: 16/09/2021-14.21
+Windows: 10.19043
+Plateforme: 2
+CPU: Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+
+----------
+Report:
+Date: 16/09/2021-14.21
+Exception Class: <class 'smtplib.SMTPAuthenticationError'>
+Exception: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials e2sm3331192wra.40 - gsmtp')
+-------------
+Traceback (most recent call last):
+  File "C:\Users\Paul-Marie Corbet\Documents\Python\AFKClass\v.2.2\main.py", line 1578, in <module>
+    s.login(expmail,mdp)
+  File "C:\Users\Paul-Marie Corbet\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 745, in login
+    raise last_exception
+  File "C:\Users\Paul-Marie Corbet\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 734, in login
+    (code, resp) = self.auth(
+  File "C:\Users\Paul-Marie Corbet\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 657, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials e2sm3331192wra.40 - gsmtp')
+-------------

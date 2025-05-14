@@ -1,0 +1,28 @@
+AFK Class 2.2 - Tutoriel d'installation
+---------------------------------------
+
+1. Extraire l'archive en .rar
+2. Exectuez "AFK Class.exe" en mode administrateur
+
+--------------------
+Problèmes fréquents:
+Si problème d'affichage, menus vides:
+--> verifiez qu'AFK Class est bien lançé en mode administrateur.
+--> installez la police a partir du fichier présent: "Unispace bd.ft"
+Si le problème persiste:
+--> redemarrez votre ordinateur après la manipulation précedente.
+
+--------------------------------------------------
+Comment executer mon programme en administrateur ?
+--> Clique droit sur "AFK Class.exe" 
+puis: "Executer en tant qu'administrateur".
+
+--------------------------------------------------------------------------
+Comment executer de façon permanente AFK Class en tant qu'administrateur ?
+--> Clique droit sur "AFK Class.exe" 
+puis: Propriétés>Compatibilité>Executer en tant qu'administrateur
+puis: Appliquer.
+
+---------------
+Contactez-nous:
+contact.afkclass@gmail.com
